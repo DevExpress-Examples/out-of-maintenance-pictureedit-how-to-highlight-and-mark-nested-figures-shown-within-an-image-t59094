@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomPictureEdit.cs](./CS/DXApplication7/CustomPictureEdit.cs) (VB: [CustomPictureEdit.vb](./VB/DXApplication7/CustomPictureEdit.vb))
+* [Main.cs](./CS/DXApplication7/Main.cs) (VB: [Main.vb](./VB/DXApplication7/Main.vb))
+* [Program.cs](./CS/DXApplication7/Program.cs) (VB: [Program.vb](./VB/DXApplication7/Program.vb))
+<!-- default file list end -->
 # PictureEdit - How to highlight and mark nested figures shown within an image 
 
 
